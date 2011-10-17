@@ -1,0 +1,13 @@
+{
+    "name": "r/",
+    "version": "1.0",
+    "omnibox": { "keyword" : "r" },
+    "permissions" : [
+      "http://www.reddit.com/*",
+      "tabs"
+    ],
+    "icon": {
+        "16": "icon.png"
+    },
+    "background_page": "background.html"
+}
