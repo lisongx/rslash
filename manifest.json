@@ -1,13 +1,15 @@
 {
-    "name": "r/",
+    "name": "rslash",
     "version": "1.0",
     "omnibox": { "keyword" : "r" },
     "permissions" : [
       "http://www.reddit.com/*",
-      "tabs"
+      "tabs",
+      "history"
     ],
-    "icon": {
-        "16": "icon.png"
+    "icons": {
+        "16": "icon.png",
+        "32": "icon.png"
     },
     "background_page": "background.html"
 }
